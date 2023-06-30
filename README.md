@@ -6,11 +6,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raul+Mascarenhas;I'm+30+years;I'm+passionate+about+technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-- 🔭 I'm a student of Systems Analysis and Development at UNIMAR-Ead I'm also in a Fullstack Java Developer Bootcamp at Generation 
-
 - 😄 He/Him
-
 <div> 
  
  <a href="https://www.instagram.com/rhmdeassis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
